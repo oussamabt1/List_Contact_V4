@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.contacts.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-46:/layout/item_contact.xml",
+        "source": "com.example.contacts.app-main-49:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-46:/layout/fragment_liste_contacts.xml",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_liste_contacts.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-46:/layout/fragment_detail_contact.xml",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_detail_contact.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-mergeDebugResources-46:/layout/fragment_carte_contact.xml",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_carte_contact.xml"
+    }
+]

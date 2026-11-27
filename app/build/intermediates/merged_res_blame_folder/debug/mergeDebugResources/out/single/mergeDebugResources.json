@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.contacts.app-debug-47:/layout_fragment_liste_contacts.xml.flat",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_liste_contacts.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/layout_fragment_carte_contact.xml.flat",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_carte_contact.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/drawable_ic_person.xml.flat",
+        "source": "com.example.contacts.app-main-49:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/layout_item_contact.xml.flat",
+        "source": "com.example.contacts.app-main-49:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/drawable_ic_add.xml.flat",
+        "source": "com.example.contacts.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.contacts.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/menu_main_menu.xml.flat",
+        "source": "com.example.contacts.app-main-49:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.contacts.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/layout_fragment_detail_contact.xml.flat",
+        "source": "com.example.contacts.app-main-49:/layout/fragment_detail_contact.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/xml_file_paths.xml.flat",
+        "source": "com.example.contacts.app-main-49:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/drawable_ic_call.xml.flat",
+        "source": "com.example.contacts.app-main-49:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/xml_preferences.xml.flat",
+        "source": "com.example.contacts.app-main-49:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.contacts.app-main-49:/drawable/ic_launcher_foreground.xml"
+    }
+]

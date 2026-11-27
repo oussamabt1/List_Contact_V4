@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème clair uniquement : les couleurs de texte proposées (noir, bleu, vert, rouge, violet)
+         sont choisies pour être lisibles sur fond clair. Le mode sombre n'est pas supporté. -->
+    <style name="Theme.Contacts" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
